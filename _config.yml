@@ -1,0 +1,22 @@
+title: Kylie Belchamber
+description: >
+  Post doctoral scientist,
+  BALR communications secretary,
+  slight addiction to wool...
+copyright: Kylie Belchamber
+sass:
+  sass_dir: assets/sass
+url: http://kylie.belchamber.com
+disqus_shortname: 
+facebook_username:
+twitter_username: "kyliebelchamber"
+linkedin_username: "kylie-belchamber-8334363b"
+instagram_username:
+pinterest_username:
+flickr_username:
+github_username:
+feed_icon: rss
+email: "kylie@belchamber.com"
+gems: [jekyll-paginate]
+paginate_path: "/page/:num/"
+paginate: 5
